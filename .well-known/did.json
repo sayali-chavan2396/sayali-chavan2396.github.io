@@ -1,0 +1,21 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/ed25519-2018/v1"
+  ],
+  "id": "did:web:sairanjit.github.io",
+  "verificationMethod": [
+    {
+      "id": "did:web:sairanjit.github.io#key-1",
+      "type": "Ed25519VerificationKey2018",
+      "controller": "did:web:sairanjit.github.io",
+      "publicKeyBase58": "wdnWcFrXMzM9DLqMaMAstYwV5rjjaeGfLWCpeLTnuQm"
+    }
+  ],
+  "authentication": [
+    "did:web:sairanjit.github.io#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:sairanjit.github.io#key-1"
+  ]
+}
