@@ -15,7 +15,7 @@
             "id": "did:web:sayali-chavan2396.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:sayali-chavan2396.github.io",
-            "publicKeyBase58": "wCkfw9J3R5vrxxcaoAfWNxsQ9PhdBuLoDwAnYiUSSia"
+            "publicKeyBase58": "ECnnpV72UGod8YWftuqeJ1HixtFvej3QtNv5sNogGcAH"
         }
     ]
 }
